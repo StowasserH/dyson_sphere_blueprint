@@ -18,3 +18,5 @@ There are also 4 additional blueprints that I would like to set up in new solar 
 * Generate a pattern for a Dyson Swarm and also one for the Dyson Sphere.
 * While the storage fills with materials and the swarm grows, mine the planet's resources with advanced mining machines. The DBS3 Mining Isle blueprint can be helpful in this regard.
 * Finally, build modules DS7 to DS9 to produce the rockets and launch facilities for the Dyson Sphere.
+
+However, the quickest way is to simply use the combined blueprint ds1-ds9.
