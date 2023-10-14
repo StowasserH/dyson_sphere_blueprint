@@ -1,4 +1,7 @@
 # dyson_sphere_blueprint
+
+![planet](https://github.com/StowasserH/dyson_sphere_blueprint/blob/main/Screenshot_20231014_191403.png)
+
 ## Conquering a New Solar System: A Blueprint for Rapid Integration and Sustainable Energy Supply in the Game Dyson Sphere Project
 
 This series of blueprints is designed to rapidly integrate a solar system and establish a reliable energy supply with a Dyson Sphere. Sufficient rockets and solar sails are being produced for 18 launch facilities and 64 solar sail factories.
